@@ -17,4 +17,5 @@ Language Used: Python
 
 # Data set 
 Olliveti faces from kaggle
+https://www.kaggle.com/code/serkanpeldek/face-recognition-on-olivetti-dataset/data
 
