@@ -1,6 +1,6 @@
 # face_recognition
 
-# I used Support Vector Machine and Principal component analysis Algorithms to recognize faces from a Olliveti Dataset
+I used Support Vector Machine and Principal component analysis Algorithms to recognize faces from a Olliveti Dataset
 
 #Objective: To classify the faces of the 10 different person  with 10 different images. I built a facial recognition model using PCA and SVM.
 The Principal Component Analysis algorithm was used to reduce the dimensions of the images having a number of pixel values!
